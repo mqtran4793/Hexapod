@@ -13,4 +13,6 @@ The functions of the Hexapod includes:
 -	3D printed body parts: all parts of the hexapod shall be 3D printed with Polylactic Acid (PLA) to reduce the overall weight.
 -	Camera and transmission system: camera on the hexapod shall broadcast live video over 5.8GHz radio frequency. 
     -	The camera provides operator with live video of the hexapod’s surrounding.
-    -	Camera is equipped with two servo motors that allow pan-tilt and wider view. 
+    -	Camera is equipped with two servo motors that allow pan-tilt and wider view.
+    
+LINK TO DEMO: https://youtu.be/g8xxvIUMAac
