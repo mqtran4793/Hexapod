@@ -1,6 +1,6 @@
 # Hexapod
 Senior Project for Computer Engineering at San Jose State University.
-
+[img]https://i.imgur.com/QFXk1RV.jpg[/img]
 The functions of the Hexapod includes:
 - Controllable via radio frequency: the hexapod shall be control by a remote controller over 2.4GHz radio frequency.
 -	Six degrees of freedom: the hexapod shall perform the following movements:
